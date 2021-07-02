@@ -1,3 +1,4 @@
 open terminal
 mk dir
 git init
+add files
